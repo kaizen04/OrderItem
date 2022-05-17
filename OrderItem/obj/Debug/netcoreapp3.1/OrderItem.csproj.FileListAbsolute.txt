@@ -1,0 +1,47 @@
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.exe
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.deps.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.dev.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.AssemblyReference.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfoInputs.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfo.cs
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CoreCompileInputs.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.Manifest.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.xml
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderItem.styles.css
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.RazorTargetAssemblyInfo.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CopyComplete
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.StaticWebAssets.xml
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.exe
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.deps.json
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.json
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.dev.json
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.dll
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.pdb
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.AssemblyReference.cache
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfoInputs.cache
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfo.cs
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CoreCompileInputs.cache
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.Manifest.cache
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.RazorTargetAssemblyInfo.cache
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CopyComplete
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
+E:\Projects\ASP.NET Core\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
